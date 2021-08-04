@@ -8,3 +8,5 @@ Emerging Data Scientist
 • Question Answering App: fetches answers to questions employing numerous NLP models. [Link](https://github.com/Diksha-cmd/Question-Answering_App)
 
 • Containerized batch-pipeline using Docker Hub, Pachyderm, Google Cloud Storage, and Postgres database. [Link](https://github.com/Diksha-cmd/Containerized-batch-pipeline-using-DockerHub-Pachyderm-Google-Cloud-Storage-Postgres-Cloud-Database)
+
+![](https://github.com/Diksha-cmd/My-Portfolio/blob/main/Images/Huggingface.png)
